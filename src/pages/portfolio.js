@@ -20,7 +20,7 @@ export default function Projects({projects}) {
                     <span className="pl-4 text-blue-500">{projects.results.length}</span>
                 </h1>
 
-                <div className="grid grid-cols-3 gap-8 p-12 m-4 md:grid-cols-3"> {/* 변경된 부분 */}
+                <div className="grid grid-cols-1 gap-8 p-12 m-4 sm:grid-cols-2 lg:grid-cols-3"> {/* 변경된 부분 */}
                     {projects.results.map((aProject) => (
                         <ProjectItem key={aProject.id} data={aProject}/>
                     ))}
