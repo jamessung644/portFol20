@@ -1,7 +1,7 @@
 import Layout from 'Components/layout';
 import Head from 'next/head';
-import { TOKEN, DATABASE_ID } from '/Users/jamessung/portfolio/Config';
-import ProjectItem from "/Users/jamessung/portfolio/Components/projects/project-item.js";
+import { TOKEN, DATABASE_ID } from 'Config';
+import ProjectItem from 'Components/projects/project-item.js';
 
 export default function Projects({projects}) {
 
