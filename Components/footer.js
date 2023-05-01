@@ -4,10 +4,12 @@ export default function Footer() {
   return (
     <div>
       <footer className="body-font">
+        {/* Footer Container */}
         <div className="">
           <div className="container px-5 py-6 mx-auto flex items-center sm:flex-row flex-col">
+            {/* Logo */}
             <Link href="/">
-              <span className="flex title-font font-medium items-center md:justify-start justify-center text-gray-900 cursor-pointer">
+              <span className="flex title-font font-medium items-center md:justify-start justify-center text-gray-900 dark:text-white cursor-pointer">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   fill="none"
@@ -15,7 +17,7 @@ export default function Footer() {
                   strokeLinecap="round"
                   strokeLinejoin="round"
                   strokeWidth="2"
-                  className="w-10 h-10 text-white p-2 bg-indigo-500 rounded-full"
+                  className="w-10 h-10 text-white dark:text-black p-2 bg-indigo-500 rounded-full"
                   viewBox="0 0 24 24"
                 >
                   <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"></path>
@@ -23,8 +25,11 @@ export default function Footer() {
                 <span className="ml-3 text-xl">SubPrime LAB</span>
               </span>
             </Link>
+            {/* Copyright */}
             <p className="text-sm text-gray-500 sm:ml-6 sm:mt-0 mt-4">© 2023 James Sung</p>
+            {/* Social Links */}
             <span className="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start">
+              {/* Instagram */}
               <a href="https://www.instagram.com/hhash_suhan/" className="text-gray-500 mr-3">
                 <svg
                   fill="none"
@@ -39,6 +44,7 @@ export default function Footer() {
                   <path d="M16 11.37A4 4 0 1112.63 8 4 4 0 0116 11.37zm1.5-4.87h.01"></path>
                 </svg>
               </a>
+              {/* LinkedIn */}
               <a href="https://www.linkedin.com/in/james-sung-08074b230/" className="text-gray-500 mr-3">
                 <svg
                   fill="currentColor"
@@ -49,7 +55,7 @@ export default function Footer() {
                   className="w-5 h-5"
                   viewBox="0 0 24 24"
                 >
-                  <path stroke="none" d="M16 8a6 6 0 016 6v7h-4v-7a2 2 0 00-2-2 2 2 0 00-2 2v7h-4v-7a6 6 0 016-6zM2 9h4v12H2z"></path>
+                  <path stroke="none" d="M16 8a6 6 0 016 6v7h-4v-7a2 2 0 00-2-2 2 2 0 00-2 2v7h-4v-7a6 67a6 6 0 016-6zM2 9h4v12H2z"></path>
                   <circle cx="4" cy="4" r="2" stroke="none"></circle>
                 </svg>
               </a>
@@ -60,4 +66,4 @@ export default function Footer() {
     </div>
   );
 }
-
+ 
