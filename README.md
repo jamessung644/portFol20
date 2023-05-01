@@ -1,3 +1,19 @@
+# Next.js를 이용한 포트폴리오 웹사이트
+
+## 주요기능
+1. Notion을 DB로 활용
+2. DarkMode 지원
+
+https://portfol2o.vercel.app
+
+## Main Page
+<img width="1470" alt="스크린샷 2023-05-01 오후 11 01 53" src="https://user-images.githubusercontent.com/39661528/235463007-fea67341-28aa-4f98-b353-7e70848156bf.png">
+
+## PortFolio
+<img width="1470" alt="스크린샷 2023-05-01 오후 11 02 18" src="https://user-images.githubusercontent.com/39661528/235462964-6d6ba454-9854-4ec4-8e3b-9943e8803fad.png">
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
