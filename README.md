@@ -3,6 +3,7 @@
 ## 주요기능
 1. Notion을 DB로 활용
 2. DarkMode 지원
+3. TyphoGraphic Text
 
 https://portfol2o.vercel.app
 
