@@ -2,7 +2,7 @@
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
 
-body {
+body{
   min-height: 100vh;
   justify-content: center;
   align-items: center;
@@ -10,11 +10,11 @@ body {
 }
 
 .bg-primary {
-  @apply bg-white dark:bg-slate-800;
+  @apply bg-white dark:bg-slate-800
 }
 
 .btn-project {
-  @apply inline-flex text-white dark:text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg;
+  @apply inline-flex text-white dark:text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg
 }
 
 .project-card {
@@ -24,33 +24,23 @@ body {
           hover:shadow-lg
           dark:border-gray-200/50
           dark:hover:shadow-gray-400/40
-          hover:text-blue-600;
+
+          hover:text-blue-600
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  @apply text-slate-900 dark:text-white;
+h1, h2, h3, h4, h5, h6 {
+  @apply text-slate-900 dark:text-white
 }
 
 footer {
   @apply text-gray-600 dark:text-white
-    bg-gray-100 dark:bg-slate-600/20;
+  bg-gray-100 dark:bg-slate-600/20
 }
 
 a {
-  @apply text-slate-500 hover:text-slate-700 dark:text-slate-400 dark:hover:text-slate-50;
+  @apply text-slate-500 hover:text-slate-700 dark:text-slate-400 dark:hover:text-slate-50
 }
 
 p {
-  @apply text-slate-500 dark:text-slate-400;
-}
-
-/* 추가된 부분 */
-.typewriter-highlight {
-  background-color: #f59e0b;
-  color: white;
+  @apply text-slate-500 dark:text-slate-400
 }

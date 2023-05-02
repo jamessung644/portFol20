@@ -18,7 +18,7 @@ export default function Hero() {
           }}
             />
          </h1>
-            <p class="mb-8 leading-relaxed">강원대학교 2023~ <br />춘천 제 1회 창업경진대회 사업단장상 2023/3/30 <br /> 
+            <p class="mb-8 leading-relaxed">강원대학교 AI융합학과 2023~ <br />춘천 제 1회 창업경진대회 사업단장상 2023/3/30 <br /> 
             True_Pulse 공동창업가  2023~<br /> True_Pulse 수석 개발자 <br />
              No_Cap 공동창업가  2023~<br /> No_Cap 수석 개발자</p>
             <div class="flex justify-center">
