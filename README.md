@@ -14,8 +14,8 @@ https://portfol2o.vercel.app
 <img width="1470" alt="스크린샷 2023-05-01 오후 11 02 18" src="https://user-images.githubusercontent.com/39661528/235462964-6d6ba454-9854-4ec4-8e3b-9943e8803fad.png">
 
 ## TypoGraphic
-https://user-images.githubusercontent.com/39661528/235596391-55b9e848-494c-41aa-bd6f-c0c8a143d3ab.gif
 
+![화면 기록 2023-05-02 오후 3 20 43](https://user-images.githubusercontent.com/39661528/235596773-4419ef63-da27-4868-90ef-142c8a8ba52c.gif)
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
