@@ -6,11 +6,19 @@
 
 https://portfol2o.vercel.app
 
+
+https://user-images.githubusercontent.com/39661528/235594943-90c71bce-7886-48e9-884f-50e3c34cb117.mov
+
+
 ## Main Page
 <img width="1470" alt="스크린샷 2023-05-01 오후 11 01 53" src="https://user-images.githubusercontent.com/39661528/235463007-fea67341-28aa-4f98-b353-7e70848156bf.png">
 
 ## PortFolio
 <img width="1470" alt="스크린샷 2023-05-01 오후 11 02 18" src="https://user-images.githubusercontent.com/39661528/235462964-6d6ba454-9854-4ec4-8e3b-9943e8803fad.png">
+
+##TypoGraphic
+https://user-images.githubusercontent.com/39661528/235595004-bf6fac29-7d9e-4b15-9823-4a62c8343a63.mov
+
 
 
 
