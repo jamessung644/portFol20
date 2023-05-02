@@ -17,8 +17,7 @@ https://user-images.githubusercontent.com/39661528/235594943-90c71bce-7886-48e9-
 <img width="1470" alt="스크린샷 2023-05-01 오후 11 02 18" src="https://user-images.githubusercontent.com/39661528/235462964-6d6ba454-9854-4ec4-8e3b-9943e8803fad.png">
 
 ##TypoGraphic
-https://user-images.githubusercontent.com/39661528/235595004-bf6fac29-7d9e-4b15-9823-4a62c8343a63.mov
-
+![화면 기록 2023-05-02 오후 3 20 43](https://user-images.githubusercontent.com/39661528/235596391-55b9e848-494c-41aa-bd6f-c0c8a143d3ab.gif)
 
 
 
