@@ -69,5 +69,6 @@ export async function getServerSideProps() {
       // getStaticProps() 메소드를 사용한다면 revalidate 로 데이터 변경시 갱신가능!
       //revalidate: 1 // 데이터 변경이 있으면 갱신 1초 
       //러닝코어 성수한 202310671
+      //러닝코어 최혜선 202311337
     }
 }
