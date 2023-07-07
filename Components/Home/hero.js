@@ -12,13 +12,15 @@ export default function Hero() {
         <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">성수한</h1>
          <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900"><Typewriter
           options={{
-              strings: ['James sung','Programmer', 'Entreprenuer','Inventor'],
+              strings: ['James sung','Programmer', 'Entreprenuer'],
               autoStart: true,
               loop: true,
           }}
             />
          </h1>
             <p class="mb-8 leading-relaxed">강원대학교 AI융합학과 2023~ <br />춘천 제 1회 창업경진대회 사업단장상 2023/3/30 <br /> 
+            KIRUS-RIS 인문사회 데이터분석 수료 2023/04/01<br/> (2023 강원대학교 정밀의료 빅데이터 <br /> PBL교육 대상 수상 2023/6/10) <br /> 
+            (2023년 SW 창업역량 강화 및 창업지원 프로그램 <br />데모데이 우수상 수상) 2023/06/23<br /> 
             True_Pulse 공동창업가  2023~<br /> True_Pulse 수석 개발자 <br />
              No_Cap 공동창업가  2023~<br /> No_Cap 수석 개발자</p>
             <div class="flex justify-center">
